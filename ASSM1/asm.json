@@ -1,0 +1,33 @@
+{
+  "class": [
+    {
+      "id": 1,
+      "maClass": "ABC",
+      "tenClass": "MOBILE 102"
+    },
+    {
+      "id": 2,
+      "maClass": "ABC",
+      "tenClass": "MOBILE 103"
+    },
+    {
+      "maClass": "a1",
+      "tenClass": "a1 1212",
+      "id": 3
+    }
+  ],
+  "danhsach": [
+    {
+      "id": 1,
+      "namest": "hanh",
+      "datebd": "24-07-2003",
+      "tenClass": "MOBILE 102"
+    },
+    {
+      "id": 2,
+      "namest": "hanh",
+      "datebd": "24-07-2003",
+      "tenClass": "MOBILE 103"
+    }
+  ]
+}

@@ -9,6 +9,7 @@ import Indexa from './Indexa';
 import AddClass from './AddClass';
 import ShowClass from './ShowClass';
 import DanhSachClass from './DanhSachClass';
+import UpdateClas from './UpdateClas';
 
 
 
@@ -21,6 +22,8 @@ function A(){
             <Stack.Screen name='AddClass' component={AddClass}/>
             <Stack.Screen name='ShowClass' component={ShowClass}/>
             <Stack.Screen name='DanhSachClass' component={DanhSachClass}/>
+            <Stack.Screen name='UpdateClas' component={UpdateClas}/>
+
 
 
         </Stack.Navigator>
