@@ -12,8 +12,8 @@
     },
     {
       "maClass": "a1",
-      "tenClass": "a1 1212",
-      "id": 3
+      "tenClass": "nha trang ",
+      "id": 4
     }
   ],
   "danhsach": [
@@ -24,10 +24,40 @@
       "tenClass": "MOBILE 102"
     },
     {
-      "id": 2,
-      "namest": "hanh",
+      "tenClass": "MOBILE 102",
+      "namest": "hanhxzx",
       "datebd": "24-07-2003",
-      "tenClass": "MOBILE 103"
+      "id": 2
+    },
+    {
+      "tenClass": "a1 1212",
+      "namest": "123",
+      "datebd": "123",
+      "id": 3
+    },
+    {
+      "tenClass": "nha trang ",
+      "namest": "123",
+      "datebd": "123",
+      "id": 4
+    },
+    {
+      "tenClass": "nha trang ",
+      "namest": "a",
+      "datebd": "a",
+      "id": 5
+    },
+    {
+      "tenClass": "nha trang ",
+      "namest": "q",
+      "datebd": "w",
+      "id": 6
+    },
+    {
+      "tenClass": "nha trang ",
+      "namest": "123",
+      "datebd": "321",
+      "id": 7
     }
   ]
 }
