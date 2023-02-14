@@ -14,7 +14,7 @@ function AddClass() {
        
       }
       // fetch:
-      let url_api = "http://192.168.0.106:3000/class";
+      let url_api = "http://10.24.30.53:3000/class";
      
       fetch(url_api, {
           method: 'POST',

@@ -7,7 +7,7 @@ const ShowClass = (props) => {
     //viết hàm load cl
 
     const getList = async () => {
-        let url_api = "http://192.168.0.106:3000/class";
+        let url_api = "http://10.24.30.53:3000/class";
         try {
             const response = await fetch(
                 url_api
@@ -24,7 +24,7 @@ const ShowClass = (props) => {
 
     const render = (row) => {
         const xoaSp = () => {
-            let url_api = "http://192.168.0.106:3000/class/" + row.item.id;
+            let url_api = "http://10.24.30.53:3000/class/" + row.item.id;
                
             fetch(url_api, {
                 method: 'DELETE',

@@ -1,16 +1,6 @@
 {
   "class": [
     {
-      "id": 1,
-      "maClass": "ABC",
-      "tenClass": "MOBILE 102"
-    },
-    {
-      "id": 2,
-      "maClass": "ABC",
-      "tenClass": "MOBILE 103"
-    },
-    {
       "maClass": "a1",
       "tenClass": "nha trang ",
       "id": 4

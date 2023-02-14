@@ -20,8 +20,8 @@ export default function DanhSachClass() {
     getClass();
   }, [])
 
-  const url_QLSV = "http://192.168.0.106:3000/danhsach/"
-  const url_Class = "http://192.168.0.106:3000/class/"
+  const url_QLSV = "http://10.24.30.53:3000/danhsach/"
+  const url_Class = "http://10.24.30.53:3000/class/"
 
   const getQLSV = async () => {
     await fetch(url_QLSV)

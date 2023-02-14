@@ -11,7 +11,7 @@ const UpdateClas = (props) =>{
         }
         let _id = props.route.params.item_sp.id;
         // fetch:
-        let url_api = "http://192.168.0.106:3000/class/" + _id;
+        let url_api = "http://10.24.30.53:3000/class/" + _id;
         
         fetch(url_api, {
             method: 'PUT',
